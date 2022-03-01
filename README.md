@@ -5,4 +5,4 @@
 [Appendix](https://github.com/aclsubmission2022/arr/blob/main/Appendix_ACL_2022_Submission.pdf) shows more details of the dataset construction and additional results.
 
 ### Two New Released Datasets
-[Datasets](https://github.com/aclsubmission2022/arr/tree/main/Datasets) are our released two new datasets.
+[Datasets](https://github.com/aclsubmission2022/arr/tree/main/Datasets) are our two new released datasets.
